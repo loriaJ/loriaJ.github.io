@@ -11,22 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Pure Mathematics, Universidad de Costa Rica, 2019
+* B.S. in Actuarial Science, Universidad de Costa Rica, 2017
+* Ph.D in Statistics, Purdue University, 2024 (expected)
+* International Courses:
+  * Courses in Functional Analysis and Complex Analysis, Universit\`a per Stranieri di Perugia, July 2018
+  * Markov Chains and Applications, Instituto de Matem\'atica Pura e Aplicada (IMPA), Summer 2015
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023: Research Assistant
+  * Purdue University, with Professor Anindya Bhadra
+* Fall 2020 -- Summer 2021: Research Assistant
+  * Purdue University, with Professor Arman Sabbaghi
+* 2016: Research Assistant
+  * Universidad de Costa Rica, with Professor Luis Barboza
+* 2015-2016: Research Assistant
+  * Universidad de Costa Rica, with Professor Juan José Víquez
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Teaching experience
+======
+* Spring 2022: Instructor
+  * Purdue University, teaching STAT 350
+* Fall 2021 -- Summer 2022: Instructor
+  * Purdue University, teaching STAT 301
+* Fall 2019 -- Spring 2021: Teaching Assistant
+  * Purdue University, teaching STAT 301
+* Fall 2017 and 2018: Instructor
+  * Universidad de Costa Rica, teaching CA 202
+
+
 Skills
 ======
 * Skill 1
@@ -36,7 +50,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Preprints
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +70,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2021-2022, President of Statistics Graduate Student Organization, Purdue University
+* 2021-2023, Vicepresident of Costa Rican Students Association at Purdue (CRISaP), Purdue University
