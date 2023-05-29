@@ -1,7 +1,7 @@
 ---
 title: "Demographic Modeling via 3-dimensional Markov Chains"
 collection: publications
-permalink: /publications/demo-3MC
+permalink: /publication/demo-3MC
 excerpt: 'excerpt: 'We propose a new model for understanding and prediction of demographic modeling, using Markov Chains. We apply it to an institution in Costa Rica.'
 venue: 'Revista De Matemática: Teoría Y Aplicaciones'
 paperurl: 'https://arxiv.org/pdf/2206.12532.pdf'
