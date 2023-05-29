@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/purdue-stats
 venue: "Purdue University"
+year: 2019-2023
 location: "West Lafayette, IN, USA"
 ---
 
