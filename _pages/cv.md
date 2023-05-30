@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, Purdue University, 2024 (expected)
+* Ph.D in Statistics, Purdue University, 2024
 * B.S. in Pure Mathematics, Universidad de Costa Rica, 2019
 * B.S. in Actuarial Science, Universidad de Costa Rica, 2017
 
@@ -40,7 +40,7 @@ Teaching Experience
 Summer Schools Attended
 ======
  * Courses in Functional Analysis and Complex Analysis, Università per Stranieri di Perugia, July 2018
- * Markov Chains and Applications, Instituto de Matem\'atica Pura e Aplicada (IMPA), Summer 2015
+ * Markov Chains and Applications, Instituto de Matemática Pura e Aplicada (IMPA), Summer 2015
 
 Talks & Poster Given
 ======
