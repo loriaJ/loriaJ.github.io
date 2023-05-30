@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I was born and raised in Costa Rica, recently I have been working on finishing my PhD at Purdue University. I work in the Department of Statistics, usually teaching, sometimes I get a research assistantship. My recent research considers methods to use heavy tails in statistical inference, I have also worked on causal inference and other applied settings. 
+Hi! My name is Jorge, I am on the (hopefully) last year of my PhD in Statistics at Purdue University. I work with [Prof. Anindya Bhadra](https://www.stat.purdue.edu/~bhadra/). My research mainly consists of computational methods that employ heavy tails for Bayesian statistical inference. I have also worked on causal inference and applied settings. 
 
-My undergraduate education was in Costa Rica, where I studied pure math and actuarial sciences. After working for a while in the financial sector and teaching in Universidad de Costa Rica, I decided that I wanted to pursue a higher degree. As mentioned above, I am working towards finishing my PhD. Will be looking for a job in Fall 2023, to start (hopefully) in mid-2024.
+I was born and raised in Costa Rica where I completed my undergraduate degrees in Universidad de Costa Rica. I studied pure math (2019) and actuarial sciences (2017). My experience includes working as a financial risk analyst in the financial sector in Costa Rica. In the Fall of 2018 I decided to pursue a higher degree and apply to graduate schools. Now, in Fall of 2023 I am on the job market looking for an academic position hoping to start in Fall 2024.
+
+Aside from statistics, I love dancing and enjoy baking. When the weather permits, I also like nature-walks and riding my bike.
+
