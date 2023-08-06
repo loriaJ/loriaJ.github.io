@@ -17,10 +17,12 @@ Education
 
 Research Experience
 ======
-* Fall 2023: Research Assistant
+* Spring 2023 and Fall 2023: Research Assistant
   * Purdue University, with Professor Anindya Bhadra
 * Fall 2020 -- Summer 2021: Research Assistant
   * Purdue University, with Professor Arman Sabbaghi
+* Fall 2019 -- Spring 2021: Team leader 
+  * Purdue University, Statistics for the Community
 * 2016: Research Assistant
   * Universidad de Costa Rica, with Professor Luis Barboza
 * 2015-2016: Research Assistant
@@ -28,10 +30,10 @@ Research Experience
 
 Teaching Experience
 ======
+* Fall 2021 -- Summer 2022, Summer 2023: Instructor
+  * Purdue University, teaching STAT 301
 * Spring 2022: Instructor
   * Purdue University, teaching STAT 350
-* Fall 2021 -- Summer 2022: Instructor
-  * Purdue University, teaching STAT 301
 * Fall 2019 -- Spring 2021: Teaching Assistant
   * Purdue University, teaching STAT 301
 * Fall 2017 and 2018: Instructor
@@ -44,14 +46,14 @@ Summer Schools Attended
 
 Talks & Poster Given
 ======
- * _SURE-tuned Bridge Regression_, talk in **Joint Statistical Meetings**, August 10-14, 2023
+ * _SURE-tuned Bridge Regression_, talk in **Joint Statistical Meetings**, August 5-10, 2023
  * _SURE-tuned Bridge Regression_, talk in **Latin American Congress of Probability and Mathematical Statistics (CLAPEM)**,
 July 10-14, 2023 
  * _SURE-tuned Bridge Regression_, talk in **Statistics and Optimization in Data Science Workshop**, poster Business School, Purdue University, May 2023
  * _Learner Culture and Perceptions of Social Media Applications and Learning Management Systems for Language Learning_, talk in **American Educational Research Association**, April 2023
  * _Examining Learner Culture, Country, Gender, and English Public Speaking and Peer Feedback Self-Efficacy_, talk in **American Educational Research Association**, April 2023
- * _Learning the Ranking of Causal Effects with Confounded Data_, talk in **INFORMS** 2022
- * _The Application of Transfer Learning in Tellurene Manufacturing_, talk in **INFORMS** 2022
+ * _Learning the Ranking of Causal Effects with Confounded Data_, flash talk in **INFORMS** 2022
+ 
 
 Preprints/Publications
 ======
