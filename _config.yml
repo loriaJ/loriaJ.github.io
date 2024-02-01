@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "<G-60S7DX5RW2>"
 
 
 # Site Author
@@ -83,7 +83,7 @@ author:
   name             : "Jorge Loría"
   avatar           : "profile.png"
   bio              : "PhD Candidate in Statistics, interested in inference using heavy tails and Bayesian methods"
-  location         : "West Lafayette, Indiana, United States"
+  location         : "West Lafayette, Indiana, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oJS-h50AAAAJ"
