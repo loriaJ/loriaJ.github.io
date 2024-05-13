@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jorge Loría"
 title_separator          : "-"
 name                     : &name "Jorge Loría"
-description              : &description "PhD Candidate in Statistics at Purdue University"
+description              : &description "PhD in Statistics from Purdue University"
 url                      : https://loriaJ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://loriaJ.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jorge Loría"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Statistics, interested in inference using heavy tails and Bayesian methods"
+  bio              : "PhD in Statistics, interested in inference using heavy tails and Bayesian methods"
   location         : "West Lafayette, Indiana, USA"
   employer         :
   pubmed           : 
