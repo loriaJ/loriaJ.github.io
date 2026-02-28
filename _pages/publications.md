@@ -11,16 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
-{% include Meta-Learner.html %}
+{% include site.Meta-Learner.html %}
 
-{% include VaMSL.html %}
+{% include site.VaMSL.html %}
 
-{% include Deep-Kernel-Inf-Var.html %}
+{% include site.Deep-Kernel-Inf-Var.html %}
 
-{% include Causal-Rank.html %}
+{% include site.Causal-Rank.html %}
 
-{% include Inf-Var-Inf-Net.html %}
+{% include site.Inf-Var-Inf-Net.html %}
 
-{% include SURE-Bridge.html %}
+{% include site.SURE-Bridge.html %}
 
-{% include demo-3MC.html %}
+{% include site.demo-3MC.html %}
