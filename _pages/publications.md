@@ -11,16 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% include _publications/Meta-Learner.html %}
-
-{% include _publications/VaMSL.html %}
-
-{% include _publications/Deep-Kernel-Inf-Var.html %}
-
-{% include _publications/Causal-Rank.html %}
-
-{% include _publications/Inf-Var-Inf-Net.html %}
-
-{% include _publications/SURE-Bridge.html %}
-
-{% include _publications/demo-3MC.html %}
+{% assign sorted_pages = site.publications | sort:"order" %}
+{% for post in sorted_pages %}
+  {% include archive-single.html %}
+{% endfor %}
