@@ -12,6 +12,6 @@ author_profile: true
 {% include base_path %}
 
 {% assign sorted_pages = site.publications | sort:"order" %}
-{% for post in sorted_pages %}
+{% for post in sorted_pages reversed %}
   {% include archive-single.html %}
 {% endfor %}
