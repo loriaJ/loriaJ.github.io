@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+include Meta-Learner.html
+include VaMSL.html
+include Deep-Kernel-Inf-Var.html
+include Causal-Rank.html
+include Inf-Var-Inf-Net.html
+include SURE-Bridge.html
+include demo-3MC.html
+
 {% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
