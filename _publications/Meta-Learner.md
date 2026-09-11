@@ -9,6 +9,6 @@ order: 7
 ---
 This paper provides an approach to incorporate expert knowledge to adapt to task-shift in meta learners when predicting in out-of-distribution, by using causal graphs.
 
-[https://arxiv.org/pdf/2602.19788.pdf](https://arxiv.org/pdf/2602.19788.pdf)
+[https://openreview.net/forum?id=k76ll7aQyE](https://openreview.net/forum?id=k76ll7aQyE)
 
 [code](http://www.github.com/lottamakinen/causal-meta-learning)
