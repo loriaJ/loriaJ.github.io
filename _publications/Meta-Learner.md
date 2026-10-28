@@ -3,12 +3,12 @@ title: "Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation th
 collection: publications
 permalink: /publication/Meta-Learner
 excerpt: 'This paper provides an approach to incorporate expert knowledge to adapt to task-shift in meta learners when predicting in out-of-distribution, by using causal graphs.'
-paperurl: 'https://openreview.net/forum?id=k76ll7aQyE'
-citation: 'Mäkinen, L., Loría, J., Kaski, S. (2026+). &quot; Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation through Causal Embeddings.&quot; <i>to appear</i> in The International Conference of Machine Learning.' 
+paperurl: 'https://proceedings.mlr.press/v306/makinen26a.html'
+citation: 'Mäkinen, L., Loría, J., Kaski, S. (2026+). &quot; Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation through Causal Embeddings.&quot; in The International Conference of Machine Learning.' 
 order: 7
 ---
 This paper provides an approach to incorporate expert knowledge to adapt to task-shift in meta learners when predicting in out-of-distribution, by using causal graphs.
 
-[https://openreview.net/forum?id=k76ll7aQyE](https://openreview.net/forum?id=k76ll7aQyE)
+[https://proceedings.mlr.press/v306/makinen26a.html](https://proceedings.mlr.press/v306/makinen26a.html)
 
 [code](http://www.github.com/lottamakinen/causal-meta-learning)
